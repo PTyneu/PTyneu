@@ -1,17 +1,13 @@
-### Общий приветик, 
+### Общий привет, ниже представлены краткие описания что где кого и куда
 
-<!--
-**PTyneu/PTyneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1) https://github.com/PTyneu/weather простенький телеграмм бот, парсящий погоду в городе на выбор
 
-Here are some ideas to get you started:
+2) https://github.com/PTyneu/Raif Решение задачи хакатона Райфайзенбанка
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3) https://github.com/PTyneu/Forecasting Предсказание временных рядов для такси
+
+4) https://github.com/PTyneu/Gold оценка эффективности техпроцесса золотодобывающей компании
+
+5) https://github.com/PTyneu/nlp небольшой проект по NLP, оценивающий тональность текста (не доработан) 
+
 
