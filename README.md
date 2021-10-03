@@ -2,7 +2,7 @@
 
 1) https://github.com/PTyneu/weather простенький телеграмм бот, парсящий погоду в городе на выбор
 
-2) https://github.com/PTyneu/Raif Решение задачи хакатона Райфайзенбанка
+2) https://github.com/PTyneu/Raif Решение задачи хакатона Райaфайзенбанка
 
 3) https://github.com/PTyneu/Forecasting Предсказание временных рядов для такси
 
